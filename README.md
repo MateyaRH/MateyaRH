@@ -12,6 +12,10 @@
 👋 Hello! I’m a passionate developer with a scientific background and a drive for building impactful applications. My journey into tech began after completing a PhD in Molecular Biology, and since then, I've honed my skills in various languages and frameworks through projects at École 42, where I’m currently finishing my curriculum. My interests lie in backend development and tackling complex challenges with collaborative solutions. I'm always keen to learn and adapt, especially with new languages and frameworks.
 
 For now my page is still in progress so I invite you to come back again to see it finished!
+
+Check out my **42_commonCore** repository, which contains my implementation of 42 school assignments (in progress):
+
+[➡️ 42_commonCore Repository](https://github.com/MateyaRH/42_commonCore)
 <!--
 **MateyaRH/MateyaRH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
